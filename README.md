@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Spectra400&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=AI%20Engineer%20%26%20Full%20Stack%20Developer&descColor=8b949e&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1a1a2e,100:16213e&amp;height=200&amp;section=header&amp;text=Spectra400&amp;fontSize=60&amp;fontColor=58a6ff&amp;fontAlignY=38&amp;desc=AI%20Engineer%20%26%20Full%20Stack%20Developer&amp;descColor=8b949e&amp;descAlignY=58&amp;animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%2B+Full+Stack+Developer+%F0%9F%A4%96%F0%9F%9A%80;Building+Agentic+AI+Systems+%F0%9F%A7%A0;LangChain+%7C+LangGraph+%7C+RAG+%7C+FastAPI;React+%2B+Node.js+%2B+Python+%3D+%E2%9D%A4%EF%B8%8F;Turning+ideas+into+intelligent+reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=AI+Engineer+%2B+Full+Stack+Developer+%F0%9F%A4%96%F0%9F%9A%80;Building+Agentic+AI+Systems+%F0%9F%A7%A0;LangChain+%7C+LangGraph+%7C+RAG+%7C+FastAPI;React+%2B+Node.js+%2B+Python+%3D+%E2%9D%A4%EF%B8%8F;Turning+ideas+into+intelligent+reality" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -109,9 +109,9 @@ const Spectra400 = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Spectra400&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Spectra400&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=1f6feb&amp;text_color=8b949e&amp;border_radius=10"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spectra400&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spectra400&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=8b949e&amp;border_radius=10"/>
 
 </div>
 
@@ -157,7 +157,7 @@ const Spectra400 = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:16213e,50:1a1a2e,100:0d1117&amp;height=100&amp;section=footer" width="100%"/>
 
 *"The best AI systems are built by engineers who understand both the intelligence and the infrastructure."*
 
