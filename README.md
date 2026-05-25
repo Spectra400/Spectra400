@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Spectra400&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Full%20Stack%20Developer&descColor=8b949e&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Spectra400&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=AI%20Engineer%20%26%20Full%20Stack%20Developer&descColor=8b949e&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+full-stack+experiences+%F0%9F%9A%80;JavaScript+%2F+TypeScript+enthusiast;React+%2B+Node.js+%3D+%E2%9D%A4%EF%B8%8F;Turning+ideas+into+reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%2B+Full+Stack+Developer+%F0%9F%A4%96%F0%9F%9A%80;Building+Agentic+AI+Systems+%F0%9F%A7%A0;LangChain+%7C+LangGraph+%7C+RAG+%7C+FastAPI;React+%2B+Node.js+%2B+Python+%3D+%E2%9D%A4%EF%B8%8F;Turning+ideas+into+intelligent+reality" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,20 +19,40 @@
 
 ```typescript
 const Spectra400 = {
-  role       : "Full Stack Developer",
-  languages  : ["JavaScript", "TypeScript"],
-  frontend   : ["React", "Next.js", "Vue.js"],
-  backend    : ["Node.js", "Express.js"],
+  role       : ["AI Engineer", "Full Stack Developer"],
+  languages  : ["JavaScript", "TypeScript", "Python"],
+
+  ai_stack   : {
+    frameworks : ["LangChain", "LangGraph", "LlamaIndex"],
+    patterns   : ["RAG", "Agentic AI", "Multi-Agent Systems", "Tool Calling"],
+    models     : ["OpenAI GPT", "Anthropic Claude", "Ollama (Local LLMs)"],
+    vectorDBs  : ["Pinecone", "ChromaDB", "FAISS", "Weaviate"],
+    serving    : ["FastAPI", "Pydantic", "Uvicorn"],
+  },
+
+  frontend   : ["React", "Next.js", "Vue.js", "TailwindCSS"],
+  backend    : ["Node.js", "Express.js", "FastAPI"],
   databases  : ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
-  focus      : "Building scalable, performant web apps",
-  currentlyLearning: ["System Design", "Cloud Architecture"],
-  funFact    : "I debug with console.log and I'm not ashamed 😄",
+
+  focus      : "Building intelligent, scalable AI-powered web applications",
+  currently  : ["Agentic AI Workflows", "LLM Fine-Tuning", "Cloud Architecture"],
+  funFact    : "I debug with console.log AND print() — no shame 😄",
 };
 ```
 
 ---
 
 ## 🛠️ Tech Stack
+
+### 🤖 AI / ML Engineering
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=0d1117)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ### 🌐 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0d1117)
@@ -47,14 +67,17 @@ const Spectra400 = {
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### 🗄️ Databases
+### 🗄️ Databases & Vector Stores
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 
 ### 🔧 Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -64,6 +87,21 @@ const Spectra400 = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=0d1117)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🧠 AI Expertise
+
+```
+🔗 LangChain       ████████████████████  Chains, Agents, Tools, Memory
+🕸️ LangGraph        ██████████████████░░  Multi-Agent Graphs, State Machines
+📚 RAG Systems      ████████████████████  Retrieval-Augmented Generation Pipelines
+⚡ FastAPI          ████████████████████  AI API Serving, Async, Pydantic Models
+🤖 Agentic AI       ██████████████████░░  Autonomous Agents, Tool Calling, Reasoning
+🧬 LLM Integration  ████████████████████  OpenAI, Claude, Ollama, HuggingFace
+📦 Vector DBs       ██████████████░░░░░░  Pinecone, ChromaDB, FAISS, Weaviate
+🔍 Prompt Eng.      ████████████████████  Few-shot, CoT, ReAct, System Prompts
+```
 
 ---
 
@@ -121,6 +159,6 @@ const Spectra400 = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
 
-*"Code is like humor. When you have to explain it, it's bad."* — Cory House
+*"The best AI systems are built by engineers who understand both the intelligence and the infrastructure."*
 
 </div>
