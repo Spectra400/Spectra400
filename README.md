@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Spectra400&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Full%20Stack%20Developer&descColor=8b949e&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+full-stack+experiences+%F0%9F%9A%80;JavaScript+%2F+TypeScript+enthusiast;React+%2B+Node.js+%3D+%E2%9D%A4%EF%B8%8F;Turning+ideas+into+reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI full-stack+experiences+%F0%9F%9A%80;JavaScript+%2F+Python+enthusiast;React+%2B+Node.js+%3D+%E2%9D%A4%EF%B8%8F;Turning+ideas+into+reality" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,14 +19,24 @@
 
 ```typescript
 const Spectra400 = {
-  role       : "Full Stack Developer",
-  languages  : ["JavaScript", "TypeScript"],
-  frontend   : ["React", "Next.js", "Vue.js"],
-  backend    : ["Node.js", "Express.js"],
+  role       : ["AI Engineer", "Full Stack Developer"],
+  languages  : ["JavaScript", "TypeScript", "Python"],
+
+  ai_stack   : {
+    frameworks : ["LangChain", "LangGraph", "LlamaIndex"],
+    patterns   : ["RAG", "Agentic AI", "Multi-Agent Systems", "Tool Calling"],
+    models     : ["OpenAI GPT", "Anthropic Claude", "Ollama (Local LLMs)"],
+    vectorDBs  : ["Pinecone", "ChromaDB", "FAISS", "Weaviate"],
+    serving    : ["FastAPI", "Pydantic", "Uvicorn"],
+  },
+
+  frontend   : ["React", "Next.js", "Vue.js", "TailwindCSS"],
+  backend    : ["Node.js", "Express.js", "FastAPI"],
   databases  : ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
-  focus      : "Building scalable, performant web apps",
-  currentlyLearning: ["System Design", "Cloud Architecture"],
-  funFact    : "I debug with console.log and I'm not ashamed 😄",
+
+  focus      : "Building intelligent, scalable AI-powered web applications",
+  currently  : ["Agentic AI Workflows", "LLM Fine-Tuning", "Cloud Architecture"],
+  funFact    : "I debug with console.log AND print() — no shame 😄",
 };
 ```
 
