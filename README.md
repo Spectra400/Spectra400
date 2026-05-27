@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1a1a2e,100:16213e&amp;height=200&amp;section=header&amp;text=Spectra400&amp;fontSize=60&amp;fontColor=58a6ff&amp;fontAlignY=38&amp;desc=AI%20Engineer%20%26%20Full%20Stack%20Developer&amp;descColor=8b949e&amp;descAlignY=58&amp;animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1a1a2e,100:16213e&amp;height=200&amp;section=header&amp;text=Spectra400&amp;fontSize=60&amp;fontColor=58a6ff&amp;fontAlignY=38&amp;desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&amp;descColor=8b949e&amp;descAlignY=58&amp;animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=AI+Engineer+%2B+Full+Stack+Developer+%F0%9F%A4%96%F0%9F%9A%80;Building+Agentic+AI+Systems+%F0%9F%A7%A0;LangChain+%7C+LangGraph+%7C+RAG+%7C+FastAPI;React+%2B+Node.js+%2B+Python+%3D+%E2%9D%A4%EF%B8%8F;Turning+ideas+into+intelligent+reality" alt="Typing SVG" />
